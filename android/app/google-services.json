@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461308356175",
+    "project_id": "gemini-powered-flutter-app",
+    "storage_bucket": "gemini-powered-flutter-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461308356175:android:2e9ef0ba38c2e517872c3a",
+        "android_client_info": {
+          "package_name": "com.example.colorist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqM-bwfmfrWZMGYrte31r49I84f95zfzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
